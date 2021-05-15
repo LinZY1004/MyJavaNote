@@ -1,12 +1,20 @@
 <p align="center">
 <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2481424715,2807309609&fm=26&gp=0.jpg" width="200" height="200"/>
 </p>
-<h1 align="center">docsify-demo</h1>
+<h1 align="center">林同学的Java笔记</h1>
 
-[常用资源](https://shimo.im/docs/MuiACIg1HlYfVxrj/)
-[GitHub](https://github.com/Snailclimb/docsify-demo)
-[开始阅读](#docsify-demo)
-
+* [Javaweb-1](./docs/a-1javaweb.md)
+* [Javaweb-2](./docs/a-2javaweb-2.md)
+* [Mybatis](./docs/b-1MyBatis.md)
+* [MySQL](./docs/c-1mysql.md)
+* [Redis](./docs/b-1Redis.md)
+* [Spring5-1](./docs/d-1Spring5.md)
+* [Spring5-2](./docs/d-2Spring5-2.md)
+* [SpringMVC](./docs/f-1SpringMVC.md)
+* [SpringBoot-1](./docs/.md)
+* [SpringBoot-2](./docs/e-2Springboot-2.md)
+* [SpringBoot-3](./docs/e-3SpringBoot-3.md)
+* [23种设计模式](./docs/23种设计模式.md)
 
 
 
